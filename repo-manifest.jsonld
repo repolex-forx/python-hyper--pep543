@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/python-hyper/pep543/commit/a7c508911989655bea39f181e5d4ead04e81d47f",
       "git:hexsha": "a7c508911989655bea39f181e5d4ead04e81d47f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T13:18:00.022023+00:00"
     }
   ]
 }
